@@ -133,14 +133,14 @@ python "c:/Users/Mr-A/OneDrive/Desktop/moduer and pacakage/main.py"
 ```text
  
 ├── package
-  ├── __init__.py
-  ├── exlpore_utils_module.py
-  ├── file_utils_moduls.py
-  └── math_utils_module.py
+│  ├── __init__.py
+│  ├── exlpore_utils_module.py
+│  ├── file_utils_moduls.py
+│  └── math_utils_module.py
 │
+├── README.md
 ├── main.py
-├── output.png
-└── README.md
+└── output.png
  
 ```
 
@@ -156,98 +156,7 @@ python "c:/Users/Mr-A/OneDrive/Desktop/moduer and pacakage/main.py"
 
 ---
 
-## 🖥️ Main Menu Output
-
-```text
-============================
-Welcome to Multi-Utility Toolkit 
-============================
-Choose an option :
-1. Date-Time and Time Opration
-2. Mathematical Opration
-3. Random Data Generation
-4. Generate Unique Identifiers (UUID)
-5. File Opration (Custom Module)
-6. Explore Module Attributes (dur())
-7. Exit
-============================
-Enter Your Choice :-
-```
-
----
-
-## 📸 Output / Screenshot
-
-### Date-Time Operation
-
-```text
-Current Date and Time : 2026-10-10 19:13:07.653625
-```
-
-### Date Difference
-
-```text
-Enter First Date (YYYY-MM-DD) : 2004-09-11
-Enter second Date (YYYY-MM-DD) : 2026-09-11
-Difference : 8035 days, 0:00:00
-```
-
-### Countdown Timer
-
-```text
-Enter a time :- 6
-6
-5
-4
-3
-2
-1
-```
-
-### Factorial
-
-```text
-Enter a number To Calculate factorial :- 6
-720
-```
-
-### Compound Interest
-
-```text
-Enter a Principal Ammount :- 50000
-Enter To Interest ( in %) :- 9
-Enter Year :- 5
-Compound Interest : 76931.20
-```
-
-### Random OTP
-
-```text
-Your Generate OTP is : 901812
-```
-
-### UUID Generator
-
-```text
-Generated UUID: 41fcf291-34f0-41dd-9156-1b0373dfbb85
-```
-
-### File Operation
-
-```text
-Enter File Name :- data.txt
-File created successfully
-```
-
-### Explore Module Attributes
-
-```text
-Attributes of datetime :
-['MAXYEAR', 'MINYEAR', 'UTC', 'date', 'datetime', 'time', 'timedelta', 'timezone', 'tzinfo']
-```
-
----
-
+ 
 ## 📷 Screenshot
 ![Programme Output](output.png)
 ---

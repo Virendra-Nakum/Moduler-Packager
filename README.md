@@ -143,19 +143,7 @@ python "c:/Users/Mr-A/OneDrive/Desktop/moduer and pacakage/main.py"
 └── output.png
  
 ```
-
-### Files Description
-
-| File | Purpose |
-|---|---|
-| `main.py` | Main program file that starts the application |
-| `package/__init__.py` | Package initialization file |
-| `math_utils_module.py` | Date-time, mathematical, random, and UUID operations |
-| `file_utils_moduls.py` | File create, read, write, and append operations |
-| `exlpore_utils_module.py` | Explore Python module attributes |
-
----
-
+ 
  
 ## 📷 Screenshot
 ![Programme Output](output.png)
